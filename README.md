@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asad</h1>
 
 <h3 align="center">
-Senior Software Engineer (Backend, Integrations & Distributed Systems) | 8+ Years Experience
+Senior Software Engineer | JavaScript | TypeScript | React | Angular | Vue | Next.js | Python | FastAPI
 </h3>
 
 ---
@@ -60,35 +60,35 @@ REST APIs • GraphQL • gRPC • Webhooks • Microservices • Event-Driven S
 
 ## 💼 Work Experience
 
-### 🏢 Chowly — Senior Software Engineer
-- Built secure POS order ingestion system improving delivery success **84% → 98%**
-- Implemented OAuth2 merchant auth reducing re-auth issues by **92%**
-- Designed idempotency layer eliminating duplicate orders
-- Improved system security with webhook HMAC verification & replay protection
+### 🏢 mobileLIVE — Senior Software Engineer
+- Built & Ship AI-powered products, leveraging OpenAI/Anthropic's API with Andvanced Prompt Engineering Techniques
+- Designed & Deployed Production-Level APIs implementing clean Layered Architecture, JWT Auth, and RBAC Security
+- Engineered Multi-Tier Caching Strategies alongside In-Memory Caching, reducing upstream calls to AI Inferences
+- Maintained Modular, Reusable Frontend Components library and established Testing Standards across whole Platforms
 
 ---
 
-### 🏢 Cuboh — Senior Software Engineer
-- Built menu & inventory sync reducing manual edits by **78%**
-- Increased peak throughput by **3.4x** via batching & backpressure handling
-- Reduced accounting mismatches by **86%** with reconciliation pipelines
-- Achieved **99.9% uptime** across integrations
+### 🏢 Confiz — Senior Software Engineer
+- Delivered Full-Stack Applications, achieving Performance Improvement through Query Optimization and Connection Pooling
+- Built & Maintained Backend Services through SOLID Principles, and DDD Patterns, reduced technical debt by Code Refactoring
+- Spearheaded CI/CD Pipelines and Cloud Deployment, cutting Deployment Cycle Time and eliminating Enivronment Parity incidents
+- Collaborated Cross-Functionality with Product & QA Teams in Agile Sprints, reducing Delivery Time and Post-Release Defects
 
 ---
 
-### 🏢 Bbot — Software Engineer
-- Built multi-tenant credential vault improving security & reducing escalations
-- Developed real-time order streaming with retry & fallback mechanisms
-- Created sandbox tooling for faster integration debugging
-- Introduced canary deployments reducing rollback frequency
+### 🏢 Dubizzle Labs — Software Engineer
+- Developed Real-Time Chat and Notification features, implementing Data Channeling Communication to improve User Engagement
+- Integrated 3rd Party Payments and Social Auth Providers to Handle Idempotency and avoid Fradulent Transaction Flow 
+- Built & Optimized Frontend Modules, applying Deep Knowledge of CLM, Lazy Loading, and Change Detection Strategies 
+- Designed Data Models for Transactional Marketplace Workflows and Document Schemas for User Generated Content & Activity Feeds
 
 ---
 
-### 🏢 Omnivore.io — Software Engineer
-- Built POS adapters increasing delivery success **85% → 98%**
-- Implemented OAuth2 + token rotation system
-- Designed idempotency + webhook security layer
-- Built developer sandbox reducing debugging time from days → hours
+### 🏢 Optimus Fox — Associate Software Engineer
+- Built Responsive, Accessible Web Interfaces, translating UI/UX Designs into Pixel-Precise, WCAG-Complianed Frontend Components 
+- Developed Backend Modules, implemented API Endpoints, writing Raw Queries with Proper Indexing and Normalization
+- Contributed to Microservices for Client Module, building API Controllers, Service Layer BL, and Repository Interfaces
+- Integrated Dynamic Interactions, 3rd Party Map/Social APIs, Real-Time Listners into Frontend Application
 
 ---
 
